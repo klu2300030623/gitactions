@@ -4,11 +4,10 @@ function App() {
   
 
   return (
-    <div classname = "container">
-  <h1>Welcome to GitActions</h1>
-  <p>This is sample home page using gitActions</p>
-  <p>This is FrontEnd React app using Jenkins</p>
-  </div>
+    <p>
+    <h1>Welcome to Home Page</h1>
+    <h2>This is sample Git Actions</h2>
+    </p>
   )
 }
 
